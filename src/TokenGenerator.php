@@ -25,7 +25,7 @@ class TokenGenerator
 
         $random = random_bytes($length);
 
-        $token = base64_encode(sprintf('%1$s%2$s', $random, Uuid::uuid4()));
+        $token = base64_encode(sprintf('%1$s%2$s', $random, Uuid::uuid4()->toString()));
 
         return new Token($token, $duration);
     }
