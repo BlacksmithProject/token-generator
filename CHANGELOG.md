@@ -7,9 +7,13 @@
 
 ### New features
 
-- Added `\BSP\TokenGenerator\Token`
-- Added `\BSP\TokenGenerator\TokenGenerator::generate`
-
 ### Bugfixes
 
 </details>
+
+### 0.1.0
+
+### New features
+
+- Added `\BSP\TokenGenerator\Token`
+- Added `\BSP\TokenGenerator\TokenGenerator::generate`
