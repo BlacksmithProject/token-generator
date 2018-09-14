@@ -7,6 +7,8 @@
 
 ### New features
 
+- Added `\BSP\TokenGenerator\TokenInterface`
+
 ### Bugfixes
 
 </details>

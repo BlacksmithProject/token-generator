@@ -10,7 +10,7 @@ namespace BSP\TokenGenerator;
 use DateInterval;
 use DateTimeImmutable;
 
-class Token
+class Token implements TokenInterface
 {
     private $value;
 
