@@ -9,9 +9,13 @@
 
 ### Bugfixes
 
-- Fixed typo
-
 </details>
+
+### 0.1.2
+
+### Bugfixes
+
+- Fixed typo
 
 ### 0.1.1
 
