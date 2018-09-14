@@ -7,11 +7,15 @@
 
 ### New features
 
-- Added `\BSP\TokenGenerator\TokenInterface`
-
 ### Bugfixes
 
 </details>
+
+### 0.1.1
+
+### New features
+
+- Added `\BSP\TokenGenerator\TokenInterface`
 
 ### 0.1.0
 
